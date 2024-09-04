@@ -1,4 +1,13 @@
-## Hi there 👋
+# Kaspar Kiltmaa
+
+![pilt Kaspar Kiltmaa](Kaspar-Kiltmaa-280x420.jpeg)
+
+## Miks ma tulin õppima Haapsalu kolledžisse?
+
+- Kui õppekava lugesin jäi mulle mulje segu dev-ist ja ops-ist. Kuna tulevikus plaanin sellesse rolli jõuda siis tundus Haapsalu selleks hea stardipunkt.
+- Et saada juurde teadmisi ja oskusi ning ennast mugavustsoonist välja saada. Viimasest kooliteest on 10+ aastat möödas.
+- Eriala, mida kaalusin TalTechis on ainult päevases õppes. See aga ei oleks sobitunud kuidagi praeguse elukorraldusega. Kolleegid, kellele seda mõtet jagasin soovitasid mõlemad Haapsalu kolledžit. Üks neist on praeguseks vilistalne, teine minust aasta ees.
+
 
 <!--
 
