@@ -1,6 +1,6 @@
 # Kaspar Kiltmaa
 
-![pilt Kaspar Kiltmaa](Kaspar-Kiltmaa-280x420.jpeg)
+![pilt Kaspar Kiltmaa](1622x01395.jpg)
 
 ## Miks ma tulin õppima Haapsalu kolledžisse?
 
